@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Authors>MahdiHajian</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/mahdi-hajian/NugetPackages</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mahdi-hajian/NugetPackages</RepositoryUrl>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.60.6" />
+  </ItemGroup>
 
 </Project>
