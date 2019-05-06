@@ -7,6 +7,7 @@
     <PackageProjectUrl>https://github.com/mahdi-hajian/NugetPackages</PackageProjectUrl>
     <RepositoryUrl>https://github.com/mahdi-hajian/NugetPackages</RepositoryUrl>
     <Version>1.1.2</Version>
+    <Description>small automapper and persian date option package</Description>
   </PropertyGroup>
 
 </Project>
